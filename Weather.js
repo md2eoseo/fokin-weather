@@ -94,14 +94,8 @@ Weather.propTypes = {
     "Clear",
     "Clouds",
     "Mist",
-    "Smoke",
     "Haze",
-    "Dust",
-    "Fog",
-    "Sand",
-    "Ash",
-    "Squall",
-    "Tornado"
+    "Fog"
   ]).isRequired
 };
 
